@@ -17,7 +17,10 @@
 <img align="center" src="	https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 <img align="center" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
 <img align="center" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-</div><br/>
+  
+  ![Snake animation](https://github.com/jjatobaa1/jjatobaa1/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
 
 
 
