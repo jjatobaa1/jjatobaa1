@@ -1,6 +1,6 @@
 ### Hello, welcome to my profile! 💻
-- 🔭 Atualmente trabalho como desenvolvedor front-end.
-- 🌱 Estudando ReactJS.
+- 🔭 Atualmente trabalho como analista de dados.
+- 🌱 Estudando DAX, ReactJS e Programs.
 
 [![Instagram](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](instagram.com/jjatobaa)
 [![Instagram](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/joão-jatobá-técnico-em-informática-3a5456266)
